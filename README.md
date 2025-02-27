@@ -14,6 +14,8 @@ This is a simple To-Do List application built using React. It allows users to:
 
 ## Getting Started
 
+Follow these steps to get the app running on your local machine.
+
 ### Prerequisites
 
 Before running the app, make sure you have the following installed:
